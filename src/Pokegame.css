@@ -1,0 +1,12 @@
+.Pokegame-pokedex {
+    display: flex;
+}
+
+.Pokegame-right {
+    margin-left: auto;
+}
+
+.Pokegame-tie {
+    height: 15px;
+    margin: 0px;
+}

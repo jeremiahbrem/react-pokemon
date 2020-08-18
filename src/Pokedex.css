@@ -1,0 +1,11 @@
+.Pokedex-pokecards {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 500px;
+}
+
+.Pokedex-winner {
+    height: 15px;
+    margin: 0px;
+}
